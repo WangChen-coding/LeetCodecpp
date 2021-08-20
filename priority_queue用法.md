@@ -66,6 +66,6 @@ struct cmp{
 ```
 
 ```cpp
-priority_queue<fruit,vector<fruit>,cmp>q;//定义
+priority_queue<fruit>,vector<fruit>,cmp>q;//定义
 ```
 
