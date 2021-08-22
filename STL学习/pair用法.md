@@ -13,4 +13,4 @@
 
 ### 访问pair中的元素
 
-pair中有两个元素first和second。通过结构体的方法访问即可
+pair中有两个元素first和second。通过结构体的方法访问即可。
