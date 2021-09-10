@@ -23,7 +23,7 @@ int shell_sort(int* data,int length){
 }
 ```
 
-理解->背下来 重要的代码
+理解->背下来 重要的代码。
 
 
 
