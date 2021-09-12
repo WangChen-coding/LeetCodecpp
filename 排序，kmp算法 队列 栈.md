@@ -1,6 +1,6 @@
 <img src="H:\wangchen\Documents\LeetCode\排序，kmp算法 队列 栈.assets\image-20210531221545376.png" alt="image-20210531221545376" style="zoom:50%;" />
 
-<img src="H:\wangchen\Documents\LeetCode\排序，kmp算法 队列 栈.assets\image-20210531221631016.png" alt="image-20210531221631016" style="zoom:50%;" />
+<img src="H:\wangchen\Documents\LeetCode\排序，kmp算法 队列 栈.assets\image-20210531221631016.png" alt="image-20210531221631016" style="zoom:100%;" />
 
 1. 每一堂课不要浪费
 2. 做好笔记，总结出来放在博客上
